@@ -1,6 +1,11 @@
 # surfs_up
+
 ## Projec Summary and Background
 A stakeholder is preparing to start a new business in the surfing world, and he wants more information about temperature trends before opening the surf shop. Specifically, he wants temperature data for the months of June and December in Oahu, in order to determine if the surf and ice cream shop business is sustainable year-round.
+
+## Resources
+Data Sources: Click here to view: [hawaii.sqlite](https://github.com/ALEIN3/surfs_up/blob/main/hawaii.sqlite)
+Software: Python, Anaconda Navigator, Jupyter Notebook, VS code
 
 ## Results with analysis
 After analyzing June and December data, we can see the outcomes in the following tables:
