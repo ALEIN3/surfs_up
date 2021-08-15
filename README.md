@@ -6,7 +6,7 @@ A stakeholder is preparing to start a new business in the surfing world, and he 
 ## Resources
 Data Sources: Click here to view [hawaii.sqlite](https://github.com/ALEIN3/surfs_up/blob/main/hawaii.sqlite)
 
-Software: Python, Anaconda Navigator, Jupyter Notebook, VS code
+Softwares: Python, Anaconda Navigator, Jupyter Notebook, VS code
 
 ## Results with analysis
 After analyzing June and December data, we can see the outcomes in the following tables:
